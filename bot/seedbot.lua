@@ -224,7 +224,7 @@ function create_config( )
    },
     sudo_users = {156539679},--Sudo users
     disabled_channels = {},
-    realm = {96389443},--Realms Id
+    realm = {25014395},--Realms Id
     moderation = {data = 'data/moderation.json'},
     help_text = [[
 Commands list :
