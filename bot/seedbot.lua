@@ -219,7 +219,8 @@ function create_config( )
     "download_media",
     "invite",
     "all",
-    "Plugins"
+    "Plugins",
+    "Xray"
    },
     sudo_users = {156539679},--Sudo users
     disabled_channels = {},
