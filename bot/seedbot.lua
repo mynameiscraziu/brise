@@ -219,8 +219,8 @@ function create_config( )
     "download_media",
     "invite",
     "all",
-    "plugins"
-    },
+    "Plugins"
+   },
     sudo_users = {156539679},--Sudo users
     disabled_channels = {},
     realm = {96389443},--Realms Id
